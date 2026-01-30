@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.1.0">
 
-## Unreleased (2026-01-26)
+## 0.1.0 (2026-01-30)
 
 <section class="features">
 
@@ -72,6 +72,8 @@ A total of 17 issues were closed in this release:
 
 <details>
 
+-   [`f79a945`](https://github.com/stdlib-js/stdlib/commit/f79a9459ee83a526964301bb1e400059f0daf08d) - **bench:** refactor to use string interpolation in `stats/base/dists/planck` [(#9901)](https://github.com/stdlib-js/stdlib/pull/9901) _(by Suyash Pathak)_
+-   [`c404057`](https://github.com/stdlib-js/stdlib/commit/c4040575dcca6cc615621c9a3b1dc3eb0ff18f6d) - **bench:** update random value generation [(#9820)](https://github.com/stdlib-js/stdlib/pull/9820) _(by Harsh Yadav)_
 -   [`6d64a34`](https://github.com/stdlib-js/stdlib/commit/6d64a344071e5e7afd0a8500cc27bee493d6e439) - **docs:** replace manual `for` loop in examples [(#9439)](https://github.com/stdlib-js/stdlib/pull/9439) _(by Harsh Yadav, Athan Reines)_
 -   [`47088cc`](https://github.com/stdlib-js/stdlib/commit/47088cc299d84289a904dd2e7d2cdf0aee9057aa) - **docs:** fix TSDoc comments example code and return annotation values _(by Philipp Burckhardt)_
 -   [`e02e358`](https://github.com/stdlib-js/stdlib/commit/e02e358c5541ba0c4e5962dd15acb685b099b60c) - **docs:** fix example code in TSDoc comments _(by Philipp Burckhardt)_
@@ -148,7 +150,7 @@ A total of 17 issues were closed in this release:
 
 ### Contributors
 
-A total of 10 people contributed to this release. Thank you to the following contributors:
+A total of 11 people contributed to this release. Thank you to the following contributors:
 
 -   Abhishek Jain
 -   Athan Reines
@@ -159,6 +161,7 @@ A total of 10 people contributed to this release. Thank you to the following con
 -   Lokesh Ranjan
 -   Philipp Burckhardt
 -   Rishav Tarway
+-   Suyash Pathak
 -   Yuvi Mittal
 
 </section>
