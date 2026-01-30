@@ -42,13 +42,18 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import planck from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-planck@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-planck/tags). For example,
+
+```javascript
 import planck from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-planck@v0.1.0-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { cdf, entropy, kurtosis, logcdf, logpmf, mean, median, mgf, mode, pmf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-planck@v0.1.0-esm/index.mjs';
+import { cdf, entropy, kurtosis, logcdf, logpmf, mean, median, mgf, mode, pmf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-planck@esm/index.mjs';
 ```
 
 #### planck
@@ -113,7 +118,7 @@ The namespace contains the following functions for calculating distribution prop
 <script type="module">
 
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@esm/index.mjs';
-import planck from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-planck@v0.1.0-esm/index.mjs';
+import planck from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-planck@esm/index.mjs';
 
 console.log( objectKeys( planck ) );
 
