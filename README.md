@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import planck from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-planck@deno/mod.js';
+import planck from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-planck@v0.1.1-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { cdf, entropy, kurtosis, logcdf, logpmf, mean, median, mgf, mode, pmf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-planck@deno/mod.js';
+import { cdf, entropy, kurtosis, logcdf, logpmf, mean, median, mgf, mode, pmf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-planck@v0.1.1-deno/mod.js';
 ```
 
 #### planck
@@ -108,7 +108,7 @@ The namespace contains the following functions for calculating distribution prop
 
 ```javascript
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@deno/mod.js';
-import planck from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-planck@deno/mod.js';
+import planck from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-planck@v0.1.1-deno/mod.js';
 
 console.log( objectKeys( planck ) );
 ```
