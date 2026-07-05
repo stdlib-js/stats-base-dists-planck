@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-12)
+## Unreleased (2026-07-05)
 
 <section class="commits">
 
@@ -12,6 +12,12 @@
 
 <details>
 
+-   [`26f6338`](https://github.com/stdlib-js/stdlib/commit/26f63380e6d7f701abbdc1761a3a86a0595dd958) - **docs:** update namespace table of contents [(#13277)](https://github.com/stdlib-js/stdlib/pull/13277) _(by stdlib-bot, Philipp Burckhardt)_
+-   [`8975f00`](https://github.com/stdlib-js/stdlib/commit/8975f00a25cb5ce66c932529659354ae5d8454dd) - **docs:** update descriptions [(#13219)](https://github.com/stdlib-js/stdlib/pull/13219) _(by Philipp Burckhardt)_
+-   [`5dee19d`](https://github.com/stdlib-js/stdlib/commit/5dee19dbe000c3512c48f5546478b66a41a2a062) - **bench:** use consistent assertions [(#13229)](https://github.com/stdlib-js/stdlib/pull/13229) _(by Philipp Burckhardt)_
+-   [`ca49ceb`](https://github.com/stdlib-js/stdlib/commit/ca49ceb1e17979e0ecb77bc50dedd14b7515b46f) - **refactor:** rename internal variable [(#13167)](https://github.com/stdlib-js/stdlib/pull/13167) _(by Philipp Burckhardt)_
+-   [`50a34cf`](https://github.com/stdlib-js/stdlib/commit/50a34cffd477b655ab96d0aefd61744ef964a58f) - **style:** remove extra trailing newlines [(#12968)](https://github.com/stdlib-js/stdlib/pull/12968) _(by Philipp Burckhardt)_
+-   [`dbe4c82`](https://github.com/stdlib-js/stdlib/commit/dbe4c820ea98330253b4054a5bc9b04b2293415b) - **docs:** propagate fixes to sibling packages [(#12677)](https://github.com/stdlib-js/stdlib/pull/12677) _(by Philipp Burckhardt, Athan Reines)_
 -   [`77195c3`](https://github.com/stdlib-js/stdlib/commit/77195c343d9d48e264a58f8ec213d0df53ca7317) - **docs:** update namespace table of contents [(#12835)](https://github.com/stdlib-js/stdlib/pull/12835) _(by stdlib-bot)_
 -   [`cae5335`](https://github.com/stdlib-js/stdlib/commit/cae53357950b4c389b0020878c268995cd79d222) - **docs:** propagate develop fixes to sibling packages [(#12736)](https://github.com/stdlib-js/stdlib/pull/12736) _(by Philipp Burckhardt)_
 -   [`f59b324`](https://github.com/stdlib-js/stdlib/commit/f59b324c3c652580e17c4c4baae8168faab8af8c) - **docs:** fix typos and copy-paste errors in `stats` TypeScript declarations [(#12482)](https://github.com/stdlib-js/stdlib/pull/12482) _(by Philipp Burckhardt, Athan Reines)_
