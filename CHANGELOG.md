@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-27)
+## Unreleased (2026-09-16)
 
 <section class="commits">
 
@@ -12,6 +12,15 @@
 
 <details>
 
+-   [`d3eaad3`](https://github.com/stdlib-js/stdlib/commit/d3eaad35f633c731ce8112190d74bb2a7577e1e8) - **chore:** clean-up [(#15039)](https://github.com/stdlib-js/stdlib/pull/15039) _(by Philipp Burckhardt, Athan Reines)_
+-   [`317d7d0`](https://github.com/stdlib-js/stdlib/commit/317d7d03e3341f9c18c34909118eec7723129c14) - **test:** migrate `stats/base/dists/planck/pmf` to ULP-based assertions [(#15159)](https://github.com/stdlib-js/stdlib/pull/15159) _(by Athan Reines)_
+-   [`dec095d`](https://github.com/stdlib-js/stdlib/commit/dec095d41282fa226e0357302295e7b52d4851f2) - **test:** migrate `stats/base/dists/planck/logcdf` to ULP-based assertions [(#15114)](https://github.com/stdlib-js/stdlib/pull/15114) _(by Athan Reines)_
+-   [`898079d`](https://github.com/stdlib-js/stdlib/commit/898079dc9ed586b61f5402b6228d946da0ff4a1a) - **test:** migrate `stats/base/dists/planck/entropy` to ULP-based assertions [(#15087)](https://github.com/stdlib-js/stdlib/pull/15087) _(by Athan Reines)_
+-   [`af1cb75`](https://github.com/stdlib-js/stdlib/commit/af1cb75391f575c94130af271d907846143566e7) - **test:** migrate `stats/base/dists/planck/kurtosis` to ULP-based assertions [(#15054)](https://github.com/stdlib-js/stdlib/pull/15054) _(by Philipp Burckhardt)_
+-   [`5030412`](https://github.com/stdlib-js/stdlib/commit/50304125ee1662185e3ccb7076bffec89c575c91) - **test:** migrate `stats/base/dists/planck/mgf` to ULP-based assertions [(#15021)](https://github.com/stdlib-js/stdlib/pull/15021) _(by Athan Reines)_
+-   [`9814f11`](https://github.com/stdlib-js/stdlib/commit/9814f1164e8903497d53fe649b0068ac637fa1db) - **test:** migrate `stats/base/dists/planck/logpmf` to ULP-based assertions [(#14883)](https://github.com/stdlib-js/stdlib/pull/14883) _(by Athan Reines)_
+-   [`d72b6e9`](https://github.com/stdlib-js/stdlib/commit/d72b6e9b9bb092f31be5af26e5195174cc428b20) - **test:** migrate `stats/base/dists/planck/skewness` to ULP-based assertions [(#14797)](https://github.com/stdlib-js/stdlib/pull/14797) _(by Athan Reines)_
+-   [`83cf8cb`](https://github.com/stdlib-js/stdlib/commit/83cf8cb781c22616439e2d8c45833cb3a3c5fcd6) - **test:** migrate `stats/base/dists/planck/stdev` to ULP-based assertions [(#14395)](https://github.com/stdlib-js/stdlib/pull/14395) _(by Athan Reines)_
 -   [`26f6338`](https://github.com/stdlib-js/stdlib/commit/26f63380e6d7f701abbdc1761a3a86a0595dd958) - **docs:** update namespace table of contents [(#13277)](https://github.com/stdlib-js/stdlib/pull/13277) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`8975f00`](https://github.com/stdlib-js/stdlib/commit/8975f00a25cb5ce66c932529659354ae5d8454dd) - **docs:** update descriptions [(#13219)](https://github.com/stdlib-js/stdlib/pull/13219) _(by Philipp Burckhardt)_
 -   [`5dee19d`](https://github.com/stdlib-js/stdlib/commit/5dee19dbe000c3512c48f5546478b66a41a2a062) - **bench:** use consistent assertions [(#13229)](https://github.com/stdlib-js/stdlib/pull/13229) _(by Philipp Burckhardt)_
