@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-16)
+## Unreleased (2026-11-02)
 
 <section class="commits">
 
@@ -12,6 +12,9 @@
 
 <details>
 
+-   [`e9f509b`](https://github.com/stdlib-js/stdlib/commit/e9f509be395472993c0b01f4784e3aa53ba05984) - **test:** migrate `stats/base/dists/planck/variance` to ULP-based assertions [(#15794)](https://github.com/stdlib-js/stdlib/pull/15794) _(by Athan Reines)_
+-   [`0c1845c`](https://github.com/stdlib-js/stdlib/commit/0c1845cb7edc3bc95b2fe274c7732e8cba867931) - **test:** migrate `stats/base/dists/planck/mean` to ULP-based assertions [(#15682)](https://github.com/stdlib-js/stdlib/pull/15682) _(by Devansh Patel)_
+-   [`51b97d8`](https://github.com/stdlib-js/stdlib/commit/51b97d8af0e4062a7f264a6978220bf0a225a4c1) - **test:** migrate `stats/base/dists/planck/cdf` to ULP-based assertions [(#15650)](https://github.com/stdlib-js/stdlib/pull/15650) _(by Athan Reines)_
 -   [`d3eaad3`](https://github.com/stdlib-js/stdlib/commit/d3eaad35f633c731ce8112190d74bb2a7577e1e8) - **chore:** clean-up [(#15039)](https://github.com/stdlib-js/stdlib/pull/15039) _(by Philipp Burckhardt, Athan Reines)_
 -   [`317d7d0`](https://github.com/stdlib-js/stdlib/commit/317d7d03e3341f9c18c34909118eec7723129c14) - **test:** migrate `stats/base/dists/planck/pmf` to ULP-based assertions [(#15159)](https://github.com/stdlib-js/stdlib/pull/15159) _(by Athan Reines)_
 -   [`dec095d`](https://github.com/stdlib-js/stdlib/commit/dec095d41282fa226e0357302295e7b52d4851f2) - **test:** migrate `stats/base/dists/planck/logcdf` to ULP-based assertions [(#15114)](https://github.com/stdlib-js/stdlib/pull/15114) _(by Athan Reines)_
@@ -45,9 +48,10 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Devansh Patel
 -   Karan Anand
 -   Philipp Burckhardt
 -   anee3
